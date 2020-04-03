@@ -9,6 +9,7 @@
     "files": [
         "matchstick-houses.ts",
         "average-whole-number.ts",
-        "sum-of-budget.ts"
+        "sum-of-budget.ts",
+        "reverse-and-not.ts"
     ]
 }
