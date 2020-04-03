@@ -3,7 +3,8 @@
 
 //logic for typeScript
 var getBudgets = ( arr:any[] ): number => {
-    const totalBudgets = arr.reduce((total, arr) => total + arr.budget, 0);
+    const totalBudgets : number = arr.reduce((total, arr) => total + arr.budget, 0);
+    // Array<number> = arr.reduce((total, arr) => total + arr.budget, 0);
     return totalBudgets;
 }
 

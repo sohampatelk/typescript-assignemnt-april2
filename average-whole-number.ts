@@ -2,7 +2,7 @@
 // https://edabit.com/challenge/arzsQcGsstJxHAnGi
 
 var isAvgWhole = (arr:number[]):boolean => {
-    let sumAvg=0;
+    let sumAvg: number =0;
     for(let i=0;i<arr.length;i++){
         sumAvg=sumAvg+arr[i];
     }
