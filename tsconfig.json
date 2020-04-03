@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+    "files": [
+        "matchstick-houses.ts",
+        "average-whole-number.ts",
+        "sum-of-budget.ts"
+    ]
+}
